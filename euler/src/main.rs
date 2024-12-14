@@ -1,6 +1,6 @@
 fn d(x: f32, y: f32) -> f32 {
     let diffeq = (2.0 * x) + y;
-    diffeq
+    return diffeq
 }
 
 fn main() {
